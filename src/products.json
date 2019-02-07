@@ -1,0 +1,87 @@
+[
+    {
+        "name": "\"Miles Apart, Close at Heart\" Necklace - UT",
+        "sku": "NCK01",
+        "slug": "miles-apart-necklace-ut",
+        "price": 9.0,
+        "category": "jewelry",
+        "sale": false,
+        "img": "/img/products/miles-apart-utah-necklace.jpg",
+        "mainImage": "/img/products/miles-apart-utah-necklace.jpg",
+        "images": [
+            {
+            "thumb": "/img/products/miles-apart-utah-necklace--thumb.jpg",
+            "src": "/img/products/miles-apart-utah-necklace.jpg"
+            }
+        ],
+        "description": "Carry a symbol of home with you wherever you go. This necklace makes a great gift for missionaries and family members far away."
+    },
+    {
+        "name": "\"I am Enough\" Necklace",
+        "sku": "NCK02",
+        "slug": "i-am-enough-necklace",
+        "price": 9.0,
+        "category": "jewelry",
+        "sale": false,
+        "img": "/img/products/i-am-enough-necklace.jpg",
+        "mainImage": "/img/products/i-am-enough-necklace.jpg",
+        "images": [
+            {
+            "thumb": "/img/products/i-am-enough-necklace--thumb.jpg",
+            "src": "/img/products/i-am-enough-necklace.jpg"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "name": "\"Teach, Love, Inspire\" Necklace",
+        "sku": "NCK03",
+        "slug": "teach-love-inspire-necklace",
+        "price": 9.0,
+        "category": "jewelry",
+        "sale": false,
+        "img": "/img/products/teach-love-inspire.jpg",
+        "mainImage": "/img/products/teach-love-inspire.jpg",
+        "images": [
+            {
+            "thumb": "/img/products/teach-love-inspire--thumb.jpg",
+            "src": "/img/products/teach-love-inspire.jpg"
+            }
+        ],
+        "description": "Show your teacher or mentor just how much you appreciate them with this inspiring message on a special keepsake meant just for them."
+    },
+    {
+        "name": "\"Sisters make the perfect Best Friends\" Necklace",
+        "sku": "NCK04",
+        "slug": "sisters-best-friends",
+        "price": 9.0,
+        "category": "jewelry",
+        "sale": false,
+        "img": "/img/products/sister-best-friends.jpg",
+        "mainImage": "/img/products/sister-best-friends.jpg",
+        "images": [
+            {
+            "thumb": "/img/products/sister-best-friends--thumb.jpg",
+            "src": "/img/products/sister-best-friends.jpg"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "name": "\"She Believed She Could So She Did\" Necklace",
+        "sku": "NCK05",
+        "slug": "she-believed",
+        "price": 9.0,
+        "category": "jewelry",
+        "sale": false,
+        "img": "/img/products/she-believed.jpg",
+        "mainImage": "/img/products/she-believed.jpg",
+        "images": [
+            {
+            "thumb": "/img/products/she-believed--thumb.jpg",
+            "src": "/img/products/she-believed.jpg"
+            }
+        ],
+        "description": ""
+    }
+]

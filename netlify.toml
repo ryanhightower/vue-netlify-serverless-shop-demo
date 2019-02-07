@@ -1,0 +1,13 @@
+[build]
+  Command = "yarn build"
+  Functions = "lambda"
+  Publish = "dist"
+
+[context.production]
+  # Do not commit secret keys in production apps! Add them in your Netlify console. This is here for demo purposes only.
+  environment = { VUE_APP_STRIPE_PUBLISHABLE_KEY = "pk_test_cI3Qx0uKVQR7oeJSNpA6HILP", STRIPE_SECRET_KEY = "sk_test_xgaZtW7Kwk6GJfwERj8zQwDO" }
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
